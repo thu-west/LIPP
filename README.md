@@ -6,6 +6,7 @@ Jiacheng Wu, Yong Zhang, Shimin Chen, Yu Chen, Jin Wang, Chunxiao Xing:
 
 The code is available at: https://github.com/Jiacheng-WU/lipp
 
+```
 @article{DBLP:journals/pvldb/WuZCCWX21,
   author    = {Jiacheng Wu and
                Yong Zhang and
@@ -24,3 +25,4 @@ The code is available at: https://github.com/Jiacheng-WU/lipp
   biburl    = {https://dblp.org/rec/journals/pvldb/WuZCCWX21.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
