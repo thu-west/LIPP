@@ -1,10 +1,11 @@
 # LIPP: Updatable Learned Index with Precise Positions
 
 Jiacheng Wu, Yong Zhang, Shimin Chen, Yu Chen, Jin Wang, Chunxiao Xing:
-<a href="http://vldb.org/pvldb/vol14/p1276-wu.pdf">Updatable Learned Index with Precise Positions</a>. 1276 - 1288.
+<a href="http://vldb.org/pvldb/vol14/p1276-wu.pdf">Updatable Learned Index with Precise Positions</a>. Proc. VLDB Endow. 14(8): 1276-1288 (2021).
 
 The code is available at: https://github.com/Jiacheng-WU/lipp
 
+Please cite our paper as follows:
 ```
 @article{DBLP:journals/pvldb/WuZCCWX21,
   author    = {Jiacheng Wu and
