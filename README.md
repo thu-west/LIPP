@@ -5,6 +5,8 @@ Jiacheng Wu, Yong Zhang, Shimin Chen, Yu Chen, Jin Wang, Chunxiao Xing:
 
 The code is available at: https://github.com/Jiacheng-WU/lipp
 
+For experiment code please contact west@tsinghua.edu.cn .
+
 Please cite our paper as follows:
 ```
 @article{DBLP:journals/pvldb/WuZCCWX21,
